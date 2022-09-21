@@ -1,0 +1,3 @@
+org\hadoop\wordcount\WordCountMapper.class
+org\hadoop\wordcount\WordCountReducer.class
+org\hadoop\wordcount\WordCountDriver.class
