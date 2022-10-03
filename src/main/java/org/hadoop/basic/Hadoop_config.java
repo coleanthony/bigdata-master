@@ -70,7 +70,6 @@ public class Hadoop_config {
     public void rename() throws Exception{
         Path oldpath=new Path("/testhadoop/a.txt");
         Path newpath=new Path("/testhadoop/b.txt");
-        
     }
 
 }

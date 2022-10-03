@@ -1,3 +1,8 @@
+D:\###coleanthony###\git-proj\bigdata-master\src\main\java\org\hadoop\basic\Hadoop_config.java
 D:\###coleanthony###\git-proj\bigdata-master\src\main\java\org\hadoop\wordcount\WordCountDriver.java
+D:\###coleanthony###\git-proj\bigdata-master\src\main\java\org\hadoop\inverted_index\RevertedIndexCombiner.java
+D:\###coleanthony###\git-proj\bigdata-master\src\main\java\org\hadoop\inverted_index\RevertedIndexDriver.java
+D:\###coleanthony###\git-proj\bigdata-master\src\main\java\org\hadoop\inverted_index\RevertedIndexMapper.java
 D:\###coleanthony###\git-proj\bigdata-master\src\main\java\org\hadoop\wordcount\WordCountMapper.java
 D:\###coleanthony###\git-proj\bigdata-master\src\main\java\org\hadoop\wordcount\WordCountReducer.java
+D:\###coleanthony###\git-proj\bigdata-master\src\main\java\org\hadoop\inverted_index\RevertedIndexReducer.java

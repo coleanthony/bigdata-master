@@ -1,3 +1,8 @@
+org\hadoop\inverted_index\RevertedIndexMapper.class
 org\hadoop\wordcount\WordCountMapper.class
-org\hadoop\wordcount\WordCountReducer.class
+org\hadoop\inverted_index\RevertedIndexDriver.class
 org\hadoop\wordcount\WordCountDriver.class
+org\hadoop\inverted_index\RevertedIndexCombiner.class
+org\hadoop\wordcount\WordCountReducer.class
+org\hadoop\inverted_index\RevertedIndexReducer.class
+org\hadoop\basic\Hadoop_config.class
