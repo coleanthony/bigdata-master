@@ -8,6 +8,7 @@ import org.apache.hadoop.fs.Path;
 
 import java.io.*;
 
+//some basic implementation of hadoop
 public class Hadoop_config {
     private static FileSystem fileSystem=null;
 
@@ -67,9 +68,10 @@ public class Hadoop_config {
         return null;
     }
 
-    public void rename() throws Exception{
-        Path oldpath=new Path("/testhadoop/a.txt");
-        Path newpath=new Path("/testhadoop/b.txt");
+    public void rename() throws Exception {
+        Path oldpath = new Path("/testhadoop/a.txt");
+        Path newpath = new Path("/testhadoop/b.txt");
+        boolean rena = fileSystem.rename(oldpath, newpath);
+        System.out.println(rena);
     }
-
 }
